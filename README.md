@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/julianscastrop" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/julianscastro" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/julianscastro" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
+<a href="https://twitter.com/julianscastrop" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
 ### Glad to see you here  
 
 I’m an electronic engineer and Python developer with over a year of experience writing code for desktop applications, embedded systems, and IoT. I specialize in automating data acquisition and analysis processes with Python and have experience developing web applications with Django. I have a solid understanding of algorithms and data structures, along with strong version control skills using Git in collaborative environments. I'm skilled at identifying and troubleshooting errors, optimizing performance, and participating in code reviews. I'm proactive in learning new technologies and adapt quickly to diverse projects.
@@ -49,7 +49,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Characterizing mmWave for 5G.](https://github.com/JuliansCastro/mmWave_5G_characterization)  
+- 🔭 I’m currently working on [Characterizing mmWave for 5G.](https://github.com/JuliansCastro/mmWave_5G_characterization)
   
 - 🌱 I’m currently learning Integrated Photonics. 
   
@@ -90,7 +90,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/gnu_bash-icon.svg?&style=for-the-badge&logo=github&logoColor=black" alt="Bash" height="25" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
