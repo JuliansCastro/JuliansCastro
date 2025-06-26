@@ -47,9 +47,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Rapidfire  
 
-<table><tr><td valign="top" width="50%">
+<table><tr>
 
-- 🔭 I’m currently working on [Characterizing mmWave for 5G.](https://github.com/JuliansCastro/mmWave_5G_characterization)
+<td valign="top" width="50%">
+
+
+- 🔭 I’m currently working on [Characterizing mmWave for 5G.](https://github.com/JuliansCastro/mmWave_5G_characterization) and my personal project [Bluecoins viewer DB](https://github.com/JuliansCastro/BluecoinsWeb).
   
 - 🌱 I’m currently learning Integrated Photonics. 
   
@@ -59,9 +62,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚡ Fun fact: I keep night shift switched on at all times
 -->
 
-</td><td valign="top" width="50%">
-
+</td>
 <!--
+<td valign="top" width="50%">
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
