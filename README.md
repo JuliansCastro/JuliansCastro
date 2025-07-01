@@ -54,7 +54,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - 🔭 I’m currently working on [Characterizing mmWave for 5G.](https://github.com/JuliansCastro/mmWave_5G_characterization) 
 
-- I'm also working on my favorite personal project: [Bluecoins](https://github.com/JuliansCastro/BluecoinsWeb) viewer DB, currently running 👉 [<kbd>Here</kbd>](http://3.143.0.167/).
+- 🧑‍💼 I'm also working on my favorite personal project: [Bluecoins](https://github.com/JuliansCastro/BluecoinsWeb) viewer DB, currently running 👉 [<kbd>Here</kbd>](http://3.143.0.167/).
   
 - 🌱 I’m currently learning Integrated Photonics. 
   
