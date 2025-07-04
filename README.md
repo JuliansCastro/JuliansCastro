@@ -86,9 +86,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br />
 
 
-## Languages and Tools
 
-<p align="center">
 <!--
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; width: 70px; height=auto" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; width: 70px; height=auto" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -96,11 +94,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px; width: 70px; height=auto" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px; width: 70px; height=auto" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
 -->
-</p>
 
 ## 🛠️ Languages & Tools
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <th align="center">Languages</th>
         <th align="center">Frameworks</th>
@@ -129,7 +126,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
     </tr>
 </table>
 
-<table style="width: auto">
+<table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <th colspan="2" align="center">Tools</th>
     </tr>
