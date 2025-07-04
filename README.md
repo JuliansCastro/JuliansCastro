@@ -144,23 +144,18 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <tr>
         <td colspan="2" align="center"><!--rowspan="2"-->
         <a href="https://github.com/" target="_blank">
-            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" height="auto" />
-        </a>
+            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" height="auto" /></a>
         <a href="https://www.docker.com/" target="_blank">
             <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/docker-original-wordmark.svg" alt="Docker" height="auto" />
         </a>
         <a href="https://www.mysql.com/" target="_blank">
-            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="auto" />
-        </a>
+            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="auto" /></a>
         <a href="https://www.linux.org/" target="_blank">
-            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/linux-original.svg" alt="Linux" height="auto" />
-        </a>
+            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/linux-original.svg" alt="Linux" height="auto" /></a>
         <a href="https://www.arduino.cc/" target="_blank">
-            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/arduino.png" alt="Arduino" height="auto" />
-        </a>
+            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/arduino.png" alt="Arduino" height="auto" /></a>
         <a href="https://www.raspberrypi.org/" target="_blank">
-            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="auto" />
-        </a>
+            <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="auto" />        </a>
         <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
             <img style="margin: 20px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/photoshop-plain.svg" alt="Photoshop" height="auto" /></a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
