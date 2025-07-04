@@ -88,6 +88,16 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Languages and Tools
 
+<p align="center">
+<!--
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
+<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
+-->
+</p>
+
 ## 🛠️ Languages & Tools
 
 <table>
@@ -146,18 +156,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
       <a href="https://www.raspberrypi.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="30" />
       </a>
+      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>&nbsp;&nbsp;  
+      <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/latex.png" alt="LaTeX" height="25" /></a>
+      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>&nbsp;&nbsp;  
     </td>
   </tr>
 </table>
 
-
-<!--
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
--->
 
 <br />  
 
