@@ -114,13 +114,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
                 <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />
             </a>
             <a href="https://www.cprogramming.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/c-original.svg" alt="C" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/c-original.svg" alt="C" height="30" />
             </a>
             <a href="https://www.cplusplus.com/" target="_blank">
-                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/cplusplus-original.svg" alt="C++" height="30" />
+                <img style="margin: 10px" style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/cplusplus-original.svg" alt="C++" height="30" />
             </a>
             <a href="https://www.r-project.org/" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/r.svg" alt="R" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/r.svg" alt="R" height="30" />
             </a>
             <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
                 <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/matlab.svg" alt="Matlab" height="30" />
@@ -141,30 +141,30 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <tr>
         <td colspan="2" align="center"><!--rowspan="2"-->
         <a href="https://github.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" height="30" />
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" height="30" />
         </a>
         <a href="https://www.docker.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" />
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" />
         </a>
         <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" />
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" />
         </a>
         <a href="https://www.linux.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/linux-original.svg" alt="Linux" height="30" />
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/linux-original.svg" alt="Linux" height="30" />
         </a>
         <a href="https://www.arduino.cc/" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/arduino.png" alt="Arduino" height="30" />
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/arduino.png" alt="Arduino" height="30" />
         </a>
         <a href="https://www.raspberrypi.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="30" />
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="30" />
         </a>
         <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>&nbsp;&nbsp;  
-        <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/latex.png" alt="LaTeX" height="25" /></a>
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>&nbsp;&nbsp;  
+        <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/latex.png" alt="LaTeX" height="25" /></a>
         <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-            <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>&nbsp;&nbsp;  
+            <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>&nbsp;&nbsp;  
         </td>
     </tr>
 </table>
