@@ -108,30 +108,30 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <tr>
         <td align="center">
             <a href="https://www.python.org/" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/python-original.svg" alt="Python" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/python-original.svg" alt="Python" height="30" />
             </a>
             <a href="https://www.java.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />
             </a>
             <a href="https://www.cprogramming.com/" target="_blank">
                 <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/c-original.svg" alt="C" height="30" />
             </a>
             <a href="https://www.cplusplus.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/cplusplus-original.svg" alt="C++" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/cplusplus-original.svg" alt="C++" height="30" />
             </a>
             <a href="https://www.r-project.org/" target="_blank">
                 <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/r.svg" alt="R" height="30" />
             </a>
             <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/matlab.svg" alt="Matlab" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/matlab.svg" alt="Matlab" height="30" />
             </a>
         </td>
         <td align="center">
             <a href="https://www.djangoproject.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/django-original.svg" alt="Django" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/django-original.svg" alt="Django" height="30" />
             </a>
             <a href="https://vuejs.org/" target="_blank">
-                <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30" />
+                <img style="margin: 10px" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30" />
             </a>
         </td>
     </tr>
