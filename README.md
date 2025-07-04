@@ -61,7 +61,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <td valign="top" width="50%">
 
-
 - 🔭 I’m currently working on [Characterizing mmWave for 5G.](https://github.com/JuliansCastro/mmWave_5G_characterization) 
 
 - 🧑‍💼 I'm also working on my favorite personal project: [Bluecoins](https://github.com/JuliansCastro/BluecoinsWeb) viewer DB, currently running 👉 [<kbd>Here</kbd>](http://3.143.0.167/).
@@ -80,16 +79,22 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+</td>
 -->
-</td></tr></table>
+</tr></table>
 
 <br />
 
 
 ## Languages and Tools
+<table><tr>
+
+<td valign="top" width="50%">
 
 <div align="center">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/python-original.svg" alt="Python" height="25" /></a>&nbsp;&nbsp;<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/c-original.svg" alt="C" height="25" /></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/python-original.svg" alt="Python" height="25" /></a>&nbsp;&nbsp;
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/c-original.svg" alt="C" height="25" /></a>&nbsp;&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>&nbsp;&nbsp;
 <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/r.svg" alt="R" height="25" /></a>&nbsp;&nbsp;
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/matlab.svg" alt="Matlab" height="25" /></a>&nbsp;&nbsp;
@@ -108,14 +113,15 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <!--
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
 -->
-</div>  
+</div>
+</tr></table>
 
 <br />  
 
