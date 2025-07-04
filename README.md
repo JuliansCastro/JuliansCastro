@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here  
 
-<div align="justify">
+
 I’m an <strong>electronic engineer</strong> and <strong>Python developer</strong> with over a year of experience writing code for desktop applications, embedded systems, and IoT. I specialize in <em>automating data acquisition and analysis</em> processes with Python and have experience developing web applications with Django.
 <br />
 <br />
@@ -45,7 +45,7 @@ I’ve worked on <em>electronic design and assembly</em>, including CAD design o
 <br />
 <br />
 I’ve got a solid understanding of <strong>algorithms and data structures</strong>, and I’m skilled at identifying and troubleshooting errors, optimizing performance, and participating in code reviews. I’m always eager to learn new technologies and adapt quickly to diverse projects.
-</div>
+
 
 <!--
 who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
