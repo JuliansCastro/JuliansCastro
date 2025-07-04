@@ -139,7 +139,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
         <th colspan="2" align="center">Tools</th>
     </tr>
     <tr>
-        <td colspan="2" align="center">
+        <td colspan="2" align="center"><!--rowspan="2"-->
         <a href="https://github.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" height="30" />
         </a>
