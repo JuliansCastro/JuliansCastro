@@ -90,11 +90,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <p align="center">
 <!--
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; width: 25px; height=auto" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; width: 25px; height=auto" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; width: 25px; height=auto" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px; width: 25px; height=auto" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px; width: 25px; height=auto" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; width: 30px; height=auto" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; width: 30px; height=auto" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; width: 30px; height=auto" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
+<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px; width: 30px; height=auto" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px; width: 30px; height=auto" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
 -->
 </p>
 
@@ -108,30 +108,30 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <tr>
         <td align="center">
             <a href="https://www.python.org/" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/python-original.svg" alt="Python" />
+                <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/python-original.svg" alt="Python" />
             </a>&nbsp;&nbsp;
             <a href="https://www.java.com/" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" />
+                <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" />
             </a>&nbsp;&nbsp;
             <a href="https://www.cprogramming.com/" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/c-original.svg" alt="C" />
+                <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/c-original.svg" alt="C" />
             </a>&nbsp;&nbsp;
             <a href="https://www.cplusplus.com/" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/cplusplus-original.svg" alt="C++" />
+                <img style="margin: 10px; width: 30px; height=auto" style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/cplusplus-original.svg" alt="C++" />
             </a>&nbsp;&nbsp;
             <a href="https://www.r-project.org/" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/r.svg" alt="R" />
+                <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/r.svg" alt="R" />
             </a>&nbsp;&nbsp;
             <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/matlab.svg" alt="Matlab" />
+                <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/matlab.svg" alt="Matlab" />
             </a>
         </td>
         <td align="center">
             <a href="https://www.djangoproject.com/" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/django-original.svg" alt="Django" />
+                <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/django-original.svg" alt="Django" />
             </a>&nbsp;&nbsp;
             <a href="https://vuejs.org/" target="_blank">
-                <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" />
+                <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" />
             </a>
         </td>
     </tr>
@@ -141,30 +141,30 @@ I specialize in building robust backends that do all the heavy lifting for your 
     <tr>
         <td colspan="2" align="center"><!--rowspan="2"-->
         <a href="https://github.com/" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" />
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/git-scm-icon.svg" alt="Git" />
         </a>&nbsp;&nbsp;
         <a href="https://www.docker.com/" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/docker-original-wordmark.svg" alt="Docker" />
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/docker-original-wordmark.svg" alt="Docker" />
         </a>&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
         </a>&nbsp;&nbsp;
         <a href="https://www.linux.org/" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/linux-original.svg" alt="Linux" />
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/linux-original.svg" alt="Linux" />
         </a>&nbsp;&nbsp;
         <a href="https://www.arduino.cc/" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/arduino.png" alt="Arduino" />
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/arduino.png" alt="Arduino" />
         </a>&nbsp;&nbsp;
         <a href="https://www.raspberrypi.org/" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" />
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/raspberrypi.png" alt="Raspberry Pi" />
         </a>&nbsp;&nbsp;
         <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>&nbsp;&nbsp;
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>&nbsp;&nbsp;
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>&nbsp;&nbsp;  
-        <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/latex.png" alt="LaTeX" height="25" /></a>&nbsp;&nbsp;
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>&nbsp;&nbsp;  
+        <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/latex.png" alt="LaTeX" height="25" /></a>&nbsp;&nbsp;
         <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-            <img style="margin: 10px; width: auto; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>&nbsp;&nbsp;  
+            <img style="margin: 10px; width: 30px; height=auto" src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>&nbsp;&nbsp;  
         </td>
     </tr>
 </table>
