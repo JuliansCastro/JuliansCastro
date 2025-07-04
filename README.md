@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 
 ### Glad to see you here  
 
-<p>
+<div align="justify">
 I’m an electronic engineer and Python developer with over a year of experience writing code for desktop applications, embedded systems, and IoT. I specialize in automating data acquisition and analysis processes with Python and have experience developing web applications with Django. I have a solid understanding of algorithms and data structures.
-<br>
+<br><br>
 I have experience in electronic design and assembly, including CAD design of PCBs, 3D modeling, programming of microcontrollers, control systems, instrumentation and sensors, serial communication protocols UART, RS232, RS485 and HTTP, MQTT and FTP communication protocols. I am proficient in programming languages such as Python, Java, C/C++ and SQL, as well as hardware description languages Verilog and VHDL, with experience in version
 control with Git in collaborative environments.
-<br>
+<br><br>
 I'm skilled at identifying and troubleshooting errors, optimizing performance, and participating in code reviews. I'm proactive in learning new technologies and adapt quickly to diverse projects.
-</p>
+</div>
 
 <!--
 who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
