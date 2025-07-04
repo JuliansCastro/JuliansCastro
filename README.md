@@ -35,19 +35,13 @@ Here are some ideas to get you started:
 
 ### Glad to see you here  
 
-<div align="justify" style=" line-height: 1.6;">
-<!--style="font-family: Arial, sans-serif; line-height: 1.6;"-->
-  <p>
-    I’m an <strong>electronic engineer</strong> and <strong>Python developer</strong> with over a year of experience writing code for desktop applications, embedded systems, and IoT. I specialize in <em>automating data acquisition and analysis</em> processes with Python, and I’ve developed web applications using Django.
-  </p>
-  <p>
-    I’ve worked on <em>electronic design and assembly</em>, including PCB CAD design, 3D modeling, microcontroller programming, control systems, instrumentation, and sensor integration. I’m familiar with serial communication protocols like UART, RS232, and RS485, as well as network protocols such as HTTP, MQTT, and FTP. I’m proficient in programming languages like Python, Java, C/C++, and SQL, and I’ve used Verilog and VHDL for hardware description. I’ve also worked extensively with Git in collaborative environments.
-  </p>
-  <p>
-    I’ve got a solid understanding of <strong>algorithms and data structures</strong>, and I’m skilled at identifying and troubleshooting errors, optimizing performance, and participating in code reviews. I’m always eager to learn new technologies and adapt quickly to diverse projects.
-  </p>
+<div align="justify">
+I’m an <strong>electronic engineer</strong> and <strong>Python developer</strong> with over a year of experience writing code for desktop applications, embedded systems, and IoT. I specialize in <em>automating data acquisition and analysis</em> processes with Python and have experience developing web applications with Django.
+<br><br>
+I’ve worked on <em>electronic design and assembly</em>, including CAD design of PCBs, 3D modeling, programming of microcontrollers, control systems, instrumentation and sensors, serial communication protocols UART, RS232, RS485 and HTTP, MQTT and FTP communication protocols. I am proficient in programming languages such as Python, Java, C/C++ and SQL, as well as hardware description languages Verilog and VHDL. I’ve also worked extensively with Git in collaborative environments. And I have a solid understanding of algorithms and data structures.
+<br><br>
+I’ve got a solid understanding of <strong>algorithms and data structures</strong>, and I’m skilled at identifying and troubleshooting errors, optimizing performance, and participating in code reviews. I’m always eager to learn new technologies and adapt quickly to diverse projects.
 </div>
-
 
 <!--
 who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
