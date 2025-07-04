@@ -137,7 +137,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
     </tr>
 </table>
 
-<table>
+<table style="width: auto">
     <tr>
         <th colspan="2" align="center">Tools</th>
     </tr>
