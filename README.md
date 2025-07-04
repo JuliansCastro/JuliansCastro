@@ -88,9 +88,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Languages and Tools
 <table><tr>
-
-<td valign="top" width="50%">
-
 <div align="center">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/python-original.svg" alt="Python" height="25" /></a>&nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/JuliansCastro/AssetsJuliansCastro/refs/heads/main/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>&nbsp;&nbsp;
@@ -121,7 +118,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
 -->
 </div>
-</td></tr></table>
+</tr></table>
 
 <br />  
 
