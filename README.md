@@ -121,7 +121,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a> 
 -->
 </div>
-</tr></table>
+</td></tr></table>
 
 <br />  
 
